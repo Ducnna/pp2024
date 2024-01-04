@@ -9,6 +9,7 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Nguyễn Ngọc Anh Đức 
+* Student Name: Nguyễn Ngọc Anh Đức
 * Student ID: 22BI13093
+
 
